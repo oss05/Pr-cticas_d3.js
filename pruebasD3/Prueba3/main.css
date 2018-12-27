@@ -1,0 +1,17 @@
+*{
+	background-color: #f02;
+}
+
+.body{
+	width: 100VW;
+	height: 100VH;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.background {
+	background-color: white;
+	}
+
+
